@@ -1,0 +1,60 @@
+/*Arreglo Header*/
+.DLogo {
+	width: 100%;
+	margin-top: 2%;
+	margin-bottom: 2%;
+}
+.ImgLogo {
+	width: 100%;
+}
+ul {
+ 	text-align: right;
+}
+.Ul1 {
+	color: gray;
+}
+li {
+	display: inline-block;
+	margin-left: 2%;
+	margin-top: 3%;
+}
+a {
+	text-align: none;
+
+	color: #696969;
+	font-family: 'Dosis', sans-serif;
+}
+a:hover {
+	background-color: #B8C9F7;
+}
+/*Arrego Section*/
+section {
+	background-color: #696969;
+
+}
+.PUniversal {
+	padding-top: 5%;
+	padding-bottom: 5%;
+}
+.FontP {
+	color: white;
+	font-family: 'Poiret One', cursive;
+}
+.P1 {
+	font-size: 50px;
+}
+.Caja2 {
+	background-color: #A9A9A9 !important;
+	width: 100%;
+	height: 230px;
+	border-radius: 2%;
+	padding: 1% 2% 2% 2%;
+	margin: auto;
+}
+@media (min-width: 536px) {
+	.Caja2 {
+		width: 60%;
+	}
+}
+
+/*Arreglo Footer*/
